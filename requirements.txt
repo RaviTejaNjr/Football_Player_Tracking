@@ -1,0 +1,12 @@
+numpy
+tqdm
+torch
+opencv-python
+matplotlib
+scikit-learn
+ultralytics
+supervision>=0.23.0
+transformers
+more-itertools
+umap-learn
+git+https://github.com/roboflow/sports.git
