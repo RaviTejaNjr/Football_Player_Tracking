@@ -57,4 +57,5 @@ All the **source videos** are taken from:  <br>
 The **Pretrained model** is trained on RoboFlow on the following Dataset:<br>
 **https://app.roboflow.com/carton-box/football_project-qi0r6/1**
 
-The **Pretrained model** has been trained on my **Local Machine** for **50 Epochs** and can be found on my other Repo:<br> [**Link Here**]
+The **Pretrained model** has been trained on my **Local Machine** for **50 Epochs** and can be found on my other Repo:<br> [**[Footballl_Players_Training
+](https://github.com/RaviTejaNjr/Footballl_Players_Training)**]
